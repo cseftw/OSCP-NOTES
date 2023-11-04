@@ -1,10 +1,8 @@
 # Table of contents
 
-* [OSCP Notes](README.md)
-* [Nmap](nmap.md)
-* [Hydra](hydra.md)
-* [Gobuster](gobuster/README.md)
-  * [Directory busting](gobuster/directory-busting.md)
-  * [Subdomain busting](gobuster/subdomain-busting.md)
-  * [Vhost](gobuster/vhost.md)
-  * [Page 1](gobuster/page-1.md)
+* [Learning tips and resources](README.md)
+* [How to hack without Metasploit](how-to-hack-without-metasploit.md)
+
+## Port Scanning
+
+* [Page 1](port-scanning/page-1.md)
