@@ -29,3 +29,6 @@
   * [TFTP - UDP 69](information-gathering/active-information-gathering/tftp-udp-69.md)
   * [POP - TCP 110, 995](information-gathering/active-information-gathering/pop-tcp-110-995.md)
   * [RDP -TCP 3389](information-gathering/active-information-gathering/rdp-tcp-3389.md)
+  * [Telnet - TCP 23](information-gathering/active-information-gathering/telnet-tcp-23.md)
+  * [MySQL - TCP 3306](information-gathering/active-information-gathering/mysql-tcp-3306.md)
+  * [Oracle - TCP 1521](information-gathering/active-information-gathering/oracle-tcp-1521.md)
