@@ -6,7 +6,11 @@
 
 **2 . View source code for comments or interesting links**
 
-**3 . Check for the existence of a robots.txt file that discloses hidden paths**
+**3 . Knowing what version of Apache running might give clues on what version of distro installed**&#x20;
+
+**Might useful when we want the shell and run any Kernel exploits**
+
+**4 . Check for the existence of a robots.txt file that discloses hidden paths**
 
 ```
 curl http://<url>/robots.txt
