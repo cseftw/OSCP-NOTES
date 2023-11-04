@@ -5,4 +5,5 @@
 
 ## Port Scanning
 
-* [Page 1](port-scanning/page-1.md)
+* [Nmap Scanning](port-scanning/nmap-scanning.md)
+* [Nmap Scripts](port-scanning/nmap-scripts.md)
