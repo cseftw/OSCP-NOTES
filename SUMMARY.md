@@ -33,3 +33,6 @@
   * [MySQL - TCP 3306](information-gathering/active-information-gathering/mysql-tcp-3306.md)
   * [Oracle - TCP 1521](information-gathering/active-information-gathering/oracle-tcp-1521.md)
   * [SSH -TCP 22](information-gathering/active-information-gathering/ssh-tcp-22.md)
+  * [Kerberos - TCP 88](information-gathering/active-information-gathering/kerberos-tcp-88.md)
+  * [Finger - TCP 79](information-gathering/active-information-gathering/finger-tcp-79-1.md)
+  * [(MS)RPC](information-gathering/active-information-gathering/ms-rpc.md)
