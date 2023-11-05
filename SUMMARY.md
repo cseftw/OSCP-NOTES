@@ -32,3 +32,4 @@
   * [Telnet - TCP 23](information-gathering/active-information-gathering/telnet-tcp-23.md)
   * [MySQL - TCP 3306](information-gathering/active-information-gathering/mysql-tcp-3306.md)
   * [Oracle - TCP 1521](information-gathering/active-information-gathering/oracle-tcp-1521.md)
+  * [SSH -TCP 22](information-gathering/active-information-gathering/ssh-tcp-22.md)
