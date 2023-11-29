@@ -20,6 +20,10 @@ wpscan --url $ip/wp/
 wpscan --url <ip> --username <name> --wordlist <path to list>
 ```
 
+```
+wpscan --url yourwebsite.com -passwords file/path/passwords.txt
+```
+
 **Random agent  (**If your site runs behind a firewall, you can try the same command with an additional option added to the end:)
 
 ```
