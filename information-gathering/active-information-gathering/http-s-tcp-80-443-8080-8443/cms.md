@@ -17,16 +17,41 @@ wpscan --url $ip/wp/
 **Bruteforce login page**
 
 ```
-wpscan --url <ip> --username <nama> --wordlist <path to list>
+wpscan --url <ip> --username <name> --wordlist <path to list>
 ```
 
-**Random agent**
+**Random agent  (**If your site runs behind a firewall, you can try the same command with an additional option added to the end:)
 
 ```
-wpscan --url http://cybear32c.lab/ --random-agent
+wpscan --url yourwebsite.com --random-user-agent
 ```
 
-### Zoom.py - enumerate wordpress users&#x20;
+### User Enumeration with WPscan
+
+```
+Wpscan flags 
+e/--enumerate = for enumeration 
+u = users 
+ap = all plugins 
+```
+
+```
+wpscan --url yourwebsite.com -e u
+```
+
+```
+wpscan --url yourwebsite.com/wordpress -e u
+```
+
+### User Enumeration and all plugins scan&#x20;
+
+```
+wpscan --url <websitename>/wordpress --enumerate u , ap
+```
+
+### Zoom.py - enumerate W
+
+### wordpress users&#x20;
 
 ```
 python zoom.py -u <wordpress site>
